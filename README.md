@@ -78,10 +78,6 @@ Edit value yang diperlukan di `settings/setting.json`.
     "groupLimit": 50,
     "medialimitCount": "5",
     "prefix": "/",
-    "vhtearkey": "Your Apikey In Here",
-    "apikeyz": "Your Apikey In Here",
-    "lolhuman": "Your Apikey In Here",
-    "apizeks": "Your Apikey In Here"
 }
 
 ```
