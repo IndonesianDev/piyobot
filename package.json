@@ -1,0 +1,26 @@
+{
+    "name": "customer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "@adiwajshing/keyed-db": "^0.2.4",
+        "@hapi/boom": "^10.0.0",
+        "@whiskeysockets/baileys": "github:Piyoxz/Baileys",
+        "awesome-phonenumber": "^2.68.0",
+        "fetch": "^1.1.0",
+        "fs-extra": "^10.0.0",
+        "https": "^1.0.0",
+        "moment-timezone": "^0.5.34",
+        "node-fetch": "^3.3.0",
+        "performance-now": "^2.1.0",
+        "pino": "^7.8.0",
+        "qrcode-terminal": "^0.12.0",
+        "wa-sticker-formatter": "^4.3.2"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "alvio adji januar",
+    "license": "MIT"
+}
