@@ -85,13 +85,6 @@ Edit value yang diperlukan di `settings/setting.json`.
 
 `prefix`: bot's prefix.  
 
-`vhtearkey`: VHTear API token. Anda bisa mendapatkannya https://api.vhtear.com/ dengan membeli kunci API Nya dan harga 25k Perbulan.
-
-`apikeyz`: Hujan Api token. Anda Bisa Mendapatkannya https://hujanapi.xyz silahkan daftar untuk mendapatkan apikey ,  limit 100/day.
-
-`lolhuman`: Lolhuman token. Anda bisa Mendapatkannya Di https://lolhuman.herokuapp.com/ silahkan daftar untuk mendapatkan apikey
-
-`apizeks` : Api vinz token. Anda bisa mendapatkanya di https://zeks.xyz/ silahkan daftar untuk mendapatkan apikey 
 
 Untuk Mendapatkan Apikey nya , daftar akun terlebih dahulu di website tersebut
 
