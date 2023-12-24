@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" alt="Piyobot" width="400" />
 
-# Piyobot
+# Whatsapp-bot
   
-> Whatsapp Bot 
-
 <p align="center">
  Piyobot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message
 </p>
